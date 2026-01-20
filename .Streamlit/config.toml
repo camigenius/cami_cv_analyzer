@@ -1,0 +1,16 @@
+[theme]
+base = "dark"
+
+primaryColor = "#39A900"
+
+# Fondo principal de la app
+backgroundColor = "#00304D"
+
+# Fondo de contenedores, sidebar, dataframes
+secondaryBackgroundColor = "#1F2933"
+
+# Color del texto
+textColor = "#39A900"
+
+# Tipografía
+font = "sans serif"
